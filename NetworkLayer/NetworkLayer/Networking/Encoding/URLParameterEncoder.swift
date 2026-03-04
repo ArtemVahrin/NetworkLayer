@@ -28,8 +28,6 @@ public struct URLParameterEncoder: ParameterEncoding { //FIXME: Add unit-tests
             urlRequest.setValue("application/x-www-form-urlencoded; charset=utf-8", forHTTPHeaderField: "Content-Type")
         }
     }
-    
-    
 }
 
 public enum NetworkError: String, Error {
