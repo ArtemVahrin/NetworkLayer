@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		98163BE32F5775C400D10767 /* Exceptions for "NetworkLayer" folder in "NetworkLayer" target */ = {
+		98959E302F5A00FF0016454E /* Exceptions for "NetworkLayer" folder in "NetworkLayer" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -24,7 +24,7 @@
 		98163BD32F5775C200D10767 /* NetworkLayer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				98163BE32F5775C400D10767 /* Exceptions for "NetworkLayer" folder in "NetworkLayer" target */,
+				98959E302F5A00FF0016454E /* Exceptions for "NetworkLayer" folder in "NetworkLayer" target */,
 			);
 			path = NetworkLayer;
 			sourceTree = "<group>";
